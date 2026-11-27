@@ -1,0 +1,11 @@
+{
+ "page": "dist/index.html",
+ "url": null,
+ "root": "dist",
+ "kind": "software",
+ "category": "event booking software for member organizations",
+ "primary": "Try the live demo",
+ "rounds": 3,
+ "start": "2026-11-27T19:18:19.074Z",
+ "by": "gate.mjs --start"
+}
