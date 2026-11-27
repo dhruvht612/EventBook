@@ -1,0 +1,1 @@
+[{ "check": "hero-lines", "target": "section.hero h1", "reason": "the page's h1 is 39 characters and sets on 3 lines at every width; the stress fill to 48 characters takes 4 at 1440 with both dealt pairings (funnel, manrope)" }]
